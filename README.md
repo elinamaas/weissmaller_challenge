@@ -1,3 +1,4 @@
+## Task
 Write a simple program that calculates the overallPrice of a shopping basket.
 Items are presented
 one at a time, in a list, identified by name - for example "Apple" or "Banana"
@@ -20,3 +21,8 @@ Apple
 Papaya
 Gralic
 Papaya
+
+## Instruction
+Start the application from the App.
+
+All needed instructions weill be provided
