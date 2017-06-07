@@ -25,6 +25,4 @@ public class App {
         List<Receipt> receiptList = receiptService.calculateReceipt(basket);
         receiptService.printReceipt(receiptList);
     }
-
-
 }
